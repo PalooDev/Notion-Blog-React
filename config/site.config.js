@@ -3,9 +3,9 @@
 module.exports = {
     global: {
         author: {
-            name: 'Harry Yep',
-            github: 'https://github.com/Harry-Yep/Notion-Blog-React',
-            email: 'hi@harrly.com',
+            name: 'Emeka Dozie',
+            github: 'https://github.com/PalooDev/Notion-Blog-React',
+            email: 'paloo.dozie@gmail.com',
             privacy_policy: 'https://www.harrly.com/privacy-policy',
         },
         site: {
